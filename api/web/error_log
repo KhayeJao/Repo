@@ -1,0 +1,3 @@
+[03-Aug-2015 16:15:10 Asia/Calcutta] PHP Fatal error:  Call to a member function orderBy() on a non-object in /home/khayejao/public_html/api/modules/v1/controllers/CouponsController.php on line 987
+[15-Aug-2015 11:49:00 Asia/Calcutta] PHP Fatal error:  Call to a member function isOpen() on a non-object in /home/khayejao/public_html/api/modules/v1/controllers/RestaurantController.php on line 151
+[17-Aug-2015 14:47:37 Asia/Calcutta] PHP Fatal error:  Call to a member function isOpen() on a non-object in /home/khayejao/public_html/api/modules/v1/controllers/RestaurantController.php on line 151
